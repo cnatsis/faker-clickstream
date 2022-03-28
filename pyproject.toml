@@ -1,0 +1,7 @@
+[build-system]
+requires = [
+    "setuptools>=57.0.0",
+    "faker",
+    "wheel"
+]
+build-backend = "setuptools.build_meta"
