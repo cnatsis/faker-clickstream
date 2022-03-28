@@ -11,9 +11,9 @@ setuptools.setup(
     description="Clickstream Faker Provider for Python.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/cnatsis/faker_clickstream",
+    url="https://github.com/cnatsis/faker-clickstream",
     project_urls={
-        "Issues Tracker": "https://github.com/cnatsis/faker_clickstream/issues",
+        "Issues Tracker": "https://github.com/cnatsis/faker-clickstream/issues",
     },
     install_requires=['Faker'],
     zip_safe=True,
