@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="faker_clickstream",
-    version="0.1.0",
+    version="0.1.1",
     author="Christos Natsis",
     author_email="christos_na@hotmail.com",
     description="Clickstream Faker Provider for Python.",
